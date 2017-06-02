@@ -1,12 +1,16 @@
 package com.codecool.morsereader;
 
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 
 class ConvertToCharTest {
 
+    @BeforeEach
+
+
     @Test
-    void getInput() {
+    void getInputTest() {
     }
 
     @Test

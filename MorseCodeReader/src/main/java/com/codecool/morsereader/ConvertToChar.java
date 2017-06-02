@@ -12,7 +12,7 @@ public class ConvertToChar extends Converter {
     @Override
     public void getInput() {
         Scanner scan = new Scanner(System.in);
-        System.out.println("Enter a your morse code: ");
+        System.out.println("\nEnter a your morse code: ");
         inputCode = scan.nextLine();
     }
 
